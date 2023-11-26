@@ -1,2 +1,2 @@
 # html_page
-HTML page example
+HTML page example.
